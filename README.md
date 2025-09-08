@@ -4,4 +4,6 @@ This is a food recipes project from the TOP curriculum for practicing the html a
  with focus on writing good insightful commit messages for showing the progress of the project.
 
 ## Credit
-royal with cheese from www.freepik.com
+cheese burger from www.freepik.com
+the garlic slicing gif from goodfellas
+Royal with cheese git from pulp fiction
