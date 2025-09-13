@@ -1,0 +1,49 @@
+body {
+    font-family: "Times New Roman", georgia, serif;
+    background-color: #625834;
+    color:#30362F;
+}
+
+.menu {
+    background-color: #30362F;
+    width: 80%;
+    margin: 0 auto;
+    padding: 36px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #FFFBDB;
+    color: #30362F;
+    width: 40%;
+    margin: 0px auto 24px;
+}
+
+.img {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    background-color: #FFFBDB;
+    
+}
+
+.meals {
+    background-color:#FFFBDB;
+    text-align: center;
+    margin: auto 0;
+    padding: 16px 0px;
+}
+
+.meals li {
+    font-size: 36px;
+    color: transparent;
+    margin-bottom: 48px;
+}
+
+li a {
+    color: #30362F;
+}
+
+.meal.cake {
+    margin-bottom: 0px;
+}
